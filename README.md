@@ -51,3 +51,43 @@ This malware has 3 phases
 The malware password in the zip is: **"kawaii"**.
 
 The password for the beginning of phase 3 and the end of phase 2 is: **"cute"** [what I meant](https://github.com/ItzMoon931/Kawaii/Assets/Fase3Password.png).
+# FAQ (Frequently Asked Questions)
+
+---
+
+### 1. What happens if I run this on a real PC?  
+It may run, but you'll get **4 warnings** before it activates. If you ignore all the warnings, say goodbye to your computer.  
+
+---
+
+### 2. I’m trying to extract the malware from the ZIP, but it’s password-protected, what’s the password?  
+The password for the ZIP file containing the malware is: **`kawaii`** in fact, if you [click](https://github.com/ItzMoon931/Kawaii/edit/main/README.md#passwords-) here was the password :D 
+
+---
+
+### 3. I’m having trouble running it, what should I do?  
+Open an "issue" in the [Kawaii repository](https://github.com/ItzMoon931/Kawaii) and describe your issue in detail.  
+If possible, attach images or videos as proof to help with the resolution.  
+
+---
+
+### 4. How can I avoid something bad happening with this malware?  
+Simply **don’t run it**. Be smart.  
+
+---
+
+### 5. Can this malware spread to other computers over a network or something similar?  
+No, this malware was not designed to:  
+- Spread to other computers or over the network.  
+- Affect your main machine (as long as you run it on a virtual machine).  
+- Steal information, manipulate the clipboard, or perform malicious actions.  
+
+Its purpose is purely **recreational and educational**.  
+
+---
+
+### 6. Is there anything else I should know before running this malware?  
+Yes, if you change the date in Windows to **October 11** (any year), a special payload will activate.  
+# Test Video 📸
+
+#### There is no video of Kawaii
