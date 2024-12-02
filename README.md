@@ -2,6 +2,8 @@
 
 # Information about Kawaii <img width="20" alt="Kawaii Logo" src="Assets/kawaii.png">
 Kawaii is a very dangerous malware. It can destroy personal information, delete files to start Windows, destroy the registry, modify the MBR, delete random files from all ~the whole C disk (ONLY THE C DISK, NO OTHER). I have to check if this is true xd~ **I confirmed it, in case you have more than one machine on the test machine, it can screw up all the machines.**
+
+###### I will be making a Kawaii version for those who want to destroy machine by machine (if they have many machines) and do not do the combo of: “2x1”.
 <details>
   
 <summary> More Info 📄 </summary>
