@@ -1,7 +1,7 @@
 ## [Spanish](https://github.com/ItzMoon931/Kawaii/README-ES.md) | English
 
 # Information about Kawaii <img width="20" alt="Kawaii Logo" src="Assets/kawaii.png">
-Kawaii is a very dangerous malware. It can destroy personal information, delete files to start Windows, destroy the registry, modify the MBR, delete random files from the whole C disk (ONLY THE C DISK, NO OTHER). *I have to check if this is true xd*
+Kawaii is a very dangerous malware. It can destroy personal information, delete files to start Windows, destroy the registry, modify the MBR, delete random files from all ~the whole C disk (ONLY THE C DISK, NO OTHER). I have to check if this is true xd~ **I confirmed it, in case you have more than one machine on the test machine, it can screw up all the machines.**
 <details>
   
 <summary> More Info 📄 </summary>
@@ -46,3 +46,8 @@ This malware has 3 phases
   Customize the system after the reboot, making it more “kawaii”, and show a “special” sound and display a little GDI, while preparing phase 3...
 * Phase 3 (End):
   Final, showing in total 15 gdis, with their respective music with bytebeat, and in the background destroying your Windows
+# Passwords 🔑
+
+The malware password in the zip is: **"kawaii"**.
+
+The password for the beginning of phase 3 and the end of phase 2 is: **"cute"** [what I meant](https://ItzMoon931/Kawaii/Assets/Fase3Password.png).
