@@ -61,7 +61,7 @@ It may run, but you'll get **4 warnings** before it activates. If you ignore all
 ---
 
 ### 2. I’m trying to extract the malware from the ZIP, but it’s password-protected, what’s the password?  
-The password for the ZIP file containing the malware is: **`kawaii`** in fact, if you [click](https://github.com/ItzMoon931/Kawaii/edit/main/README.md#passwords-) here was the password :D 
+The password for the ZIP file containing the malware is: **`kawaii`** in fact, if you [click](#passwords-) here was the password :D 
 
 ---
 
