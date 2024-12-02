@@ -52,7 +52,7 @@ Este malware tiene 3 fases:
 
 La contraseña del malware en el zip es: **"kawaii"**.
 
-La contraseña para el inicio de la fase 3 y el final de la fase 2 es: **"cute"** [a lo que me refería](https://github.com/ItzMoon931/Kawaii/Assets/Fase3Password.png).
+La contraseña para el inicio de la fase 3 y el final de la fase 2 es: **"cute"** [a lo que me refería](Assets/Fase3Password.png).
 
 # Preguntas Frecuentes (FAQ)
 
