@@ -1,4 +1,4 @@
-## Spanish | [English](https://github.com/ItzMoon931/Kawaii/README.md)
+## Spanish | [English](README.md)
 # Información sobre Kawaii <img width="20" alt="Logo de Kawaii" src="Assets/kawaii.png">
 Kawaii es un malware muy peligroso. Puede destruir información personal, eliminar archivos necesarios para iniciar Windows, destruir el registro, modificar el MBR, eliminar archivos aleatorios de todo el ~disco C completo (SOLO EL DISCO C, NINGÚN OTRO). Tengo que comprobar si esto es cierto xd~ **Lo confirmé, en caso de que tengas más de una máquina en la máquina de prueba, puede dañar todas las máquinas.**
 
