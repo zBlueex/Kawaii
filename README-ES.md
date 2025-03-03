@@ -7,7 +7,7 @@ Kawaii es un malware muy peligroso. Puede destruir información personal, elimin
   
 <summary> Más Información 📄 </summary>
 
-  * Creado por: Joseantonio3100 alias ItzMoon931  
+  * Creado por: zBlueex
   * Tipo de archivo: exe  
   * Sistemas soportados: Windows 7 y superior  
   * Programado en: C# (Csharp)  
@@ -69,7 +69,7 @@ La contraseña para el archivo ZIP que contiene el malware es: **`kawaii`**. De 
 ---
 
 ### 3. Tengo problemas para ejecutarlo, ¿qué hago?  
-Abre un "issue" en el [repositorio de Kawaii](https://github.com/ItzMoon931/Kawaii) y describe tu problema en detalle.  
+Abre un "issue" en el [repositorio de Kawaii](https://github.com/zBlueex/Kawaii/issues) y describe tu problema en detalle.  
 Si es posible, adjunta imágenes o videos como prueba para ayudar con la resolución.  
 
 ---
