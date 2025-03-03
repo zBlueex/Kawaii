@@ -8,7 +8,7 @@ Kawaii is a very dangerous malware. It can destroy personal information, delete 
   
 <summary> More Info 📄 </summary>
 
-  * Created by: Joseantonio3100 aka ItzMoon931
+  * Created by: zBlueex
   * File type: exe  
   * Supported systems: Windows 7 and higher  
   * Programmed in: C# (Csharp)
@@ -68,7 +68,7 @@ The password for the ZIP file containing the malware is: **`kawaii`** in fact, i
 ---
 
 ### 3. I’m having trouble running it, what should I do?  
-Open an "issue" in the [Kawaii repository](https://github.com/ItzMoon931/Kawaii) and describe your issue in detail.  
+Open an "issue" in the [Kawaii repository](https://github.com/zBlueex/Kawaii/issues) and describe your issue in detail.  
 If possible, attach images or videos as proof to help with the resolution.  
 
 ---
